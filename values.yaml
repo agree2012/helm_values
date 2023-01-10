@@ -1,0 +1,5 @@
+replicaCount: 1
+heapOpts: -Xmx512m -Xms512m
+maxMessageBytes: _3145728
+defaultReplicationFactor: 1
+numPartitions: 30
